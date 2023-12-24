@@ -1,0 +1,119 @@
+header {
+    background-image: url("images/coding.jpg");
+    background-size: cover;
+}
+
+.navigations {
+    display:inline-flex;
+    justify-content: space-evenly;
+}
+
+.gitHubLogo {
+    width: 20%;
+    padding: 10px;
+    padding-top: 25px;
+    margin-left: 40px;
+}
+
+.linkeIn {
+    width: 20%;
+    padding: 10px;
+    padding-top: 35px;
+}
+
+.email {
+    width: 30%;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.phone {
+    width: 16%;
+    padding-top: 35px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly; 
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 35px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    font-weight: 6900;
+    font-size: 60px;
+    height: auto;
+    padding-top: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+    color: white;
+    text-align: justify;
+}
+
+.discriptionh1 {
+    font-size: 25px;
+    font-weight: 900;
+    padding-bottom: 90px;
+    color: white;
+    padding-left: 80px;
+}
+
+.about {
+    background-color:black;
+    height: auto;
+    display: flex;
+}
+
+.imgdeepal {
+    width: 35%;
+    border-radius: 690px;
+}
+
+.secdiscription {
+    border: 2px solid black;
+    text-align:justify;
+}
+
+.introduction {
+    padding-top: 180px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    display: block;
+    justify-content: center;
+    color: white;
+}
+
+.projects {
+    background-color: black;
+    color: white;
+    height: auto;
+    text-align: center;
+}
+
+.skills {
+    border: 2px solid black;
+    background-color: lime;
+    height: 500px;
+}
+
+footer {
+    background-color: black;
+    height: auto
+}
+
+.navigationsfooter {
+    display: flex;
+}
+
+.address {
+    text-align: center;
+    color: white;
+}
