@@ -117,3 +117,9 @@ footer {
     text-align: center;
     color: white;
 }
+
+@media (max-width: 600px) {
+    .imgproject {
+        display: none;
+    }
+}
